@@ -18,8 +18,7 @@ export const COMISARIA_INFO = {
   mission: 'Brindar servicios policiales de forma digital, eficiente y accesible para todos los ciudadanos.',
   description: 'Plataforma digital de Carabineros que permite realizar tramites policiales sin ir a una comisaria fisica. Disponible 24/7 desde cualquier lugar.',
   slogan: 'Tu comisaria, siempre disponible',
-  director: 'General Director de Carabineros',
-  tesorero: 'General Director de Carabineros'
+  director: 'General Director de Carabineros'
 };
 
 // Estadisticas de uso
